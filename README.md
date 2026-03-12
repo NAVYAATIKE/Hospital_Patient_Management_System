@@ -128,7 +128,7 @@ AI & ML Engineering Student | Aspiring AI & Full Stack Developer
 
 ### architecture 
 ![Sample]
-(![alt text](ARCHITECTURE.png))
+(![![alt text](<Screenshot 2026-03-12 231444.png>)))
 
 ### Backend 
 ![End Points]
